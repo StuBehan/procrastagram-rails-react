@@ -14,7 +14,7 @@
   - [x] Password encryption
   - [x] Sessions
   - [x] Fully TDD'd Api with PostgreSQL database
-  - [ ] Tests all passing (Bcrypt broke my session_controller tests - needs loking at
+  - [ ] Tests all passing (Bcrypt broke my session_controller tests - needs looking at
   - [ ] Meaningfully test front end
   - [ ] Users cam make comments
   - [ ] Users cam like posts
